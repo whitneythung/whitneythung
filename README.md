@@ -17,7 +17,7 @@ My goal is to combine my coding and my technical skills and contribute to someth
 
 *Back-End:* Java ||  MySQL || RESTful API
 
-*Tools, Testing, Development:*  AWS ||  Junit || Jest ||  Git 
+*Tools, Testing, Development:*  AWS ||  JUnit || Jest ||  Git 
 
 ## *Let's Connect!* 😄
 💌 whitneythung@yahoo.com |
