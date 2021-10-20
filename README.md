@@ -1,4 +1,4 @@
-# Hi 👋  I’m Whitney Thung
+# Hi 👋,  I’m Whitney Thung
 
 ###### [Resume](https://github.com/whitneythung/whitneythung/files/7384226/Whitney_Thung_Resume.pdf) | [Website](https://helloitswhit.com)
 
