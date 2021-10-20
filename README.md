@@ -2,6 +2,7 @@
  
  
 About me:
+
 Sacramento State alumni. I’ve always been fascinated about how a few lines of code can turn into something awesome!
 My goal is to combine my love for coding and my technical skills and contribute to something great.
 
@@ -9,7 +10,9 @@ Currently looking for new opportunities.
 Mostly active on linkedin and github.
  
 Languages and Tools
+
 Front-End:    Javascript (ES5/ES6) ||  HTML 5 ||  CSS3
+
 Back-End:    Java ||  MySQL || RESTful API
 Tools, Testing, Development: AWS ||  Junit || Jest ||  Git 
 
