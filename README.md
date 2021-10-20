@@ -16,7 +16,7 @@ My goal is to combine my coding and my technical skills and contribute to someth
 
  *Front-End:* Javascript (ES5/ES6) ||  HTML 5 ||  CSS3
 
-*Back-End:* Java ||  MySQL || RESTful API
+*Back-End:* Java ||  MySQL 
 
 *Tools, Testing, Development:*  AWS ||  JUnit || Jest ||  Git 
 
