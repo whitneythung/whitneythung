@@ -10,7 +10,7 @@ My goal is to combine my coding and my technical skills and contribute to someth
 
 * 🤔 Currently looking for new opportunities.	
 * 💬 Mostly active here and on linkedin.
-* 🌟 Fun fact: I've traveled to 5 different countries!
+* 🌟 Fun fact: I've traveled to 5 different countries and 4 different states!
  
 ## *Languages and Tools*
 
