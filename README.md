@@ -1,6 +1,7 @@
 Hi 👋  I’m Whitney Thung
 
-Resume: [Whitney+Thung_Resume.pdf](https://github.com/whitneythung/whitneythung/files/7384221/Whitney%2BThung_Resume.pdf)
+Resume: [Whitney_Thung_Resume.pdf](https://github.com/whitneythung/whitneythung/files/7384226/Whitney_Thung_Resume.pdf)
+
 
 About me:
 
