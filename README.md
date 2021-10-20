@@ -1,28 +1,27 @@
-Hi 👋  I’m Whitney Thung
+# Hi 👋  I’m Whitney Thung
 
-Resume: [Whitney_Thung_Resume.pdf](https://github.com/whitneythung/whitneythung/files/7384226/Whitney_Thung_Resume.pdf)
+###### [Resume](https://github.com/whitneythung/whitneythung/files/7384226/Whitney_Thung_Resume.pdf)
 
-
-About me:
+## *About me:* 
 
 Sacramento State alumni. I’ve always been fascinated about how a few lines of code can turn into something awesome!
-My goal is to combine my coding and my technical skills and contribute to something great.
+My goal is to combine my coding and my technical skills and contribute to something great. 👾
 
-Currently looking for new opportunities.
-Mostly active here and on linkedin.
+
+* 🤔 Currently looking for new opportunities.	
+* 💬 Mostly active here and on linkedin.
  
-Languages and Tools
+## *Languages and Tools*
 
-Front-End:    Javascript (ES5/ES6) ||  HTML 5 ||  CSS3
+ *Front-End:* Javascript (ES5/ES6) ||  HTML 5 ||  CSS3
 
-Back-End:    Java ||  MySQL || RESTful API
+*Back-End:* Java ||  MySQL || RESTful API
 
-Tools, Testing, Development: AWS ||  Junit || Jest ||  Git 
+*Tools, Testing, Development:*  AWS ||  Junit || Jest ||  Git 
 
-Let's Connect!
-
-Email: whitneythung@yahoo.com
-Linkedin: https://www.linkedin.com/in/whitneythung/
+## *Let's Connect!* 😄
+💌 whitneythung@yahoo.com |
+🔗 https://www.linkedin.com/in/whitneythung/
 
 
 
